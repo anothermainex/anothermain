@@ -17,7 +17,7 @@ These instructions are in Chinese, specifically simplified. I've just simply clo
  2. 修改专案名称，注意不要包含 `sus` 和 `sus` 两个关键字（修改后的专案名以 `demo` 为例）modify the project name and make sure you don't include the words (censored) and (censored) becz blocking
  3. 修改 `README.md`，将(gone)替换为自己的内容（如 `example/demo`）modify (gone) with ur repo name
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/MainDabRblx/ray-funnies) click here to deploy
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/anothermainex/anothermain) click here to deploy
 
  4. 回到专案首页，点击上面的链接以部署 sus
 
